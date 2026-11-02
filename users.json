@@ -1,0 +1,14 @@
+{
+  "persistuser": {
+    "password": "persist123",
+    "role": "user"
+  },
+  "ferry": {
+    "password": "BUmtex",
+    "role": "user"
+  },
+  "checkuser125047": {
+    "password": "test1234",
+    "role": "user"
+  }
+}

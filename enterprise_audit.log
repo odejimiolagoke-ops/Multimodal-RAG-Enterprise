@@ -1,0 +1,6 @@
+{"timestamp":"2026-10-20T10:39:02.980781+00:00","user":"anonymous","role":"guest","method":"GET","path":"/","status_code":401,"outcome":"failure","duration_seconds":0.003785}
+{"timestamp":"2026-10-20T10:39:43.631052+00:00","user":"anonymous","role":"guest","method":"POST","path":"/public/login","status_code":200,"outcome":"success","duration_seconds":0.078093}
+{"timestamp":"2026-10-20T10:41:18.455474+00:00","user":"admin","role":"admin","method":"POST","path":"/pdf-upload","status_code":503,"outcome":"failure","duration_seconds":62.943326}
+{"timestamp":"2026-10-20T10:41:18.461601+00:00","user":"anonymous","role":"guest","method":"GET","path":"/health","status_code":200,"outcome":"success","duration_seconds":0.003676}
+{"timestamp":"2026-10-20T10:41:40.086405+00:00","user":"anonymous","role":"guest","method":"GET","path":"/health","status_code":200,"outcome":"success","duration_seconds":0.002074}
+{"timestamp":"2026-10-20T10:41:40.292145+00:00","user":"anonymous","role":"guest","method":"GET","path":"/docs","status_code":200,"outcome":"success","duration_seconds":0.002089}

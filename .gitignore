@@ -1,0 +1,38 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+users.json
+
+# Python environments and generated files
+.venv/
+.venv-*/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Runtime logs and temporary uploads
+*.log
+recorded_question.wav
+temp_voice_upload.wav
+temp_*
+
+# Local documents and test media
+cc1.pdf
+cc1_test_image.jpg
+Copilot_20260915_211704.png
+DAYS.doc
+question.png
+sample_kb.pdf
+voice note.ogg
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
